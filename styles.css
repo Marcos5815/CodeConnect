@@ -230,7 +230,7 @@ textarea {
     margin-left: 8px;
 }
 
-.container__image__nome {
+.container__imagem__nome {
     display: flex;
     gap: 8px;
     color: var(--secondary-color);
